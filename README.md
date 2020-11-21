@@ -8,6 +8,7 @@ To run this project, you need to run both API and Front-end separately.
 
 ```
 cd graphql-api
+npm i
 node server.js
 ```
 
@@ -15,6 +16,7 @@ node server.js
 
 ```
 cd front-end
+npm i
 npm start
 ```
 

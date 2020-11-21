@@ -14,7 +14,7 @@ node server.js
 ## Run Front-end
 
 ```
-cd button-click-dashboard
+cd front-end
 npm start
 ```
 

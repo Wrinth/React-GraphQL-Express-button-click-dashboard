@@ -1,8 +1,8 @@
 # Button-Click-Dashboard
 
-This project is consist in 2 part: API and Front-End
+This project consist in 2 parts: API and Front-End
 
-To run this project, you need to run both API and Front-end separately.
+To run this project, you need to open to terminal, and run both API and Front-end separately.
 
 ## Run API
 
@@ -24,3 +24,6 @@ Bottons page:
 http://localhost:3000/
 Dashboard page:
 http://localhost:3000/dashboard
+
+
+Youtube video: https://youtu.be/zhCmAMQWls4
